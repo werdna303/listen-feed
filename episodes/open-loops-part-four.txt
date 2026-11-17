@@ -1,0 +1,178 @@
+Listen. Open loops, part four. One loop at a time.
+For your run. About 30 minutes.
+
+It's Wednesday evening, and you're standing in the garage. Look around. On the bench, the uprights for the new shelving, cut two weeks ago, still waiting for the shelves. On the floor, the box with the truck part, opened, not installed. In the corner, three things you photographed for Marketplace, but never actually listed. And on the workbench, a stack of marking you carried out here because you thought you might do a bit while the glue dried, except there's no glue drying, because the shelving isn't glued yet.
+
+You've been busy. Really busy. You've been working on all of it. And none of it is done.
+
+And it's not just the garage. At school there's a unit you've half rebuilt, a rubric you've half rewritten, and a field trip that's half organized. On your phone, there are three different articles you started reading. Everything is moving. Nothing is finished.
+
+Here's the strange thing. If someone asked you how your week went, you'd say busy. And it was. But when you lie down at night, it doesn't feel like a busy week. It feels like a week full of open loops. Every half done thing tapping you on the shoulder.
+
+Here's the promise for this run. By the end, you'll know why working on everything at once makes everything take longer, why your brain keeps grabbing the urgent thing instead of the important one, and how to let most of your list wait, on purpose, without the guilt.
+
+This is part four, the last part of the open loops series. Quick look back. In part one, the why. Unfinished things tug at you, and a real plan can quiet the tug. In part two, Parkinson's law. Work fills the time you give it, so set an honest deadline and decide what done looks like. In part three, the calendar. A list says what, a calendar says when, and you make the decision while you're fresh. And today, the idea you yourself liked back at the start. One loop at a time. Highest priority first.
+
+Part one. The hidden cost of switching.
+
+Let's start with something you've probably heard. Multitasking is a myth. That's mostly true, but let me be precise about it, because the precise version is more useful.
+
+Your brain can do two things at once if one of them is automatic. You can run and listen to this. You can drive and talk. But for two things that both need real thinking, your brain doesn't actually do them at the same time. It switches back and forth. Fast, sometimes, but it switches. And psychologists have studied that switching for decades. The finding is very steady. Every switch costs something. A little time, and a little accuracy. You're slower and sloppier right after a switch than you would be if you'd stayed on one thing.
+
+One switch is no big deal. But a day full of switches adds up. And there's a second cost that I think matters even more for you. It has a name. Attention residue.
+
+The name comes from a researcher named Sophie Leroy, at the University of Washington. In two thousand nine she published a paper with a title I love. Why is it so hard to do my work? And here's what she found.
+
+When you leave a task to start another one, part of your attention stays behind. It lingers on the first task. Like mud on your boots when you come in from the yard. You walk into the next room, but you bring some of the last room with you. And that residue makes you worse at the new task.
+
+In her experiments, people worked on one task and then moved to a second. And she had a clever way of checking whether their minds were still on the first one. People who left the first task without a sense of closure carried more of it with them. Their minds were still partly back there. And they did worse on the next job.
+
+But here's the twist that I didn't expect. Simply finishing the first task wasn't always enough. People who finished it under a bit of time pressure, with a clear end, showed less residue. They felt done, and so their minds actually moved on. The ones who finished in a loose, unhurried way still carried more of it with them. It's the feeling of closure that seems to matter. Which ties straight back to part two, by the way. A clear finish line and an honest deadline don't just get the job done. They help your mind let go of it.
+
+Now think about your garage on Wednesday night. Every half done project is a room you walked out of with mud on your boots. And you've got five or six rooms. No wonder you feel scattered.
+
+Chess players know this feeling well. Imagine playing two games at once against two different people, flipping between boards. Even if you're good, your play drops. You come back to board one and you have to rebuild the whole picture. Where were my threats? What was his plan? What was I worried about? By the time you've rebuilt it, you've burned time and energy, and you're more likely to blunder. That rebuilding is the switch cost. And the little bit of board two still sitting in your head while you look at board one is the residue. Strong players playing a single game protect their focus fiercely, for exactly this reason.
+
+Leroy and a colleague named Theresa Glomb later tested a simple fix for the times when you have to switch before you're done. Because sometimes you do. The bell rings. A kid needs you. They had people take a minute before switching to write down where they were and what they'd do next when they came back. A ready to resume plan. And that small note cut down the residue and helped people do better on the next task. That should sound familiar too. It's the Consider it done idea from part one, in miniature. When you can't close a loop, park it with a next step, and your mind can let go.
+
+There's one more study you might hear about, so I'll mention it honestly. A team at Stanford, Eyal Ophir, Clifford Nass and Anthony Wagner, found in two thousand nine that people who multitasked heavily with media, phones and screens and so on, were more easily distracted and actually worse at switching between tasks. It got a lot of attention. Later studies have been mixed. So I wouldn't lean on it hard. But the basic point, that switching costs something and leaves residue behind, holds up well.
+
+One line for part one. Every switch costs a little, and every half finished task leaves some of your attention behind.
+
+Part two. Fewer things in progress, more things done.
+
+Now here's the idea you liked when we first talked about this series. Pick a category, and don't start a new loop in that category until the last one is closed. I want to show you why that's not just a nice feeling. It's math.
+
+Picture a small mechanic's shop. Say there are two mechanics. One way to run the shop is to start every car that comes in. Ten cars on ten lifts, all half done, the mechanics running between them. Another way is to work on two cars at a time, finish them, roll them out, and then bring in the next two.
+
+Which shop gets cars back to customers faster? The second one. And it's not close. In the first shop, every car takes ages, because the mechanics' time is spread across ten. Your car sits there half apart for a week. In the second shop, each car moves quickly from start to finish, because it gets full attention until it's done. And the total number of cars finished in a week is often the same or better, because nobody is wasting time switching and remembering where they left off.
+
+There's a simple rule from the study of queues and factories that captures this. It's called Little's law, after a professor named John Little who proved it in the early nineteen sixties. In plain words, it says this. The more jobs you have in progress at once, the longer each one takes to get through, unless you somehow speed up how fast you finish things. More in progress means longer waits. It's not a theory about motivation. It's arithmetic.
+
+Factories figured this out. Toyota famously built a whole system around limiting how much work is in progress at any one time. Software teams borrowed the same idea. They put up a board with columns, to do, doing, and done, and they put a limit on the doing column. Only so many things allowed in doing. If it's full, you don't start something new. You help finish something.
+
+Your garage is a shop with ten cars on ten lifts. The shelving, the truck part, the Marketplace stuff, the marking. Each one is waiting for you, and each one is taking forever, because your time is spread across all of them. And every one of them is an open loop tapping you on the shoulder.
+
+So the rule you liked is exactly right. Limit what's in progress. In each area of your life, have one active project. One at home. One in the garage. One big project at school. When it's done, then start the next. Not before.
+
+You can do this in your classroom too. Your Shifting Gears kids often have a pile of incomplete work. Five assignments, all half done, all late. And a kid looking at that pile will often shut down. It's too much. So don't give him the pile. Give him one. This one, today, until it's done. Then we'll look at the next. You're limiting his work in progress. And the first finished thing is often what gets him moving again.
+
+Running teaches the same lesson in a different way. If you tried to train for a marathon, a fast five kilometre race and a hill climb all in the same month, you'd end up tired and mediocre at all three. A good training block has one main goal. Other things get maintained, but one thing gets the focus. And when that block is done, you pick the next one. The body, like the brain, does better with one main loop at a time.
+
+One line for part two. The more things you have in progress, the longer each one takes, so limit what's open and finish before you start.
+
+Part three. Highest priority first.
+
+So we're going to do one thing at a time. Which one? This is where it gets tricky, because your brain has a bias, and it's not in your favour.
+
+In two thousand eighteen, three researchers, Meng Zhu, Yang Yang and Christopher Hsee, published a paper called The mere urgency effect. They gave people choices between tasks. Some tasks paid more. Some paid less. And some of them had a short deadline attached, which made them feel urgent, even though the deadline didn't actually change anything that mattered.
+
+What did people do? They often picked the urgent looking task, even when the other one was clearly worth more. The deadline itself pulled them, even when it was meaningless. The study's point was that urgency grabs us apart from whether the thing actually matters.
+
+You know this feeling. The email with the red flag. The Marketplace message that says, still available? The ping on your phone. They feel like they need you now. And meanwhile the important thing, the call home that could change a kid's term, the conversation with your wife about the summer, the devotional reading you keep meaning to go deeper on, has no deadline. So it waits. And waits.
+
+Dwight Eisenhower, the American general and president, said something about this in a speech in nineteen fifty four, and he credited the idea to a college president he knew. The gist of it was that he had two kinds of problems, the urgent and the important, and the urgent ones were usually not the important ones. People later turned that into a famous grid, urgent and important on one side, not urgent and not important on the other. You don't need the grid. You just need the question. Is this urgent, or is it important? Because they're often not the same thing.
+
+So how do you pick? Here's an old method, and it's about as simple as it gets. It's usually told as a story from nineteen eighteen. A consultant named Ivy Lee met with Charles Schwab, the president of Bethlehem Steel, a huge steel company. Schwab wanted his managers to get more done. And Lee gave him a method. At the end of each work day, write down the six most important things to do tomorrow. Put them in order of importance. Next day, start on number one, and work on it until it's done before moving to number two. Whatever's not finished goes on tomorrow's list. Repeat.
+
+The story goes that Schwab was so pleased that he later sent Lee a very large cheque. I'd hold that part loosely. It's the kind of detail that gets polished every time it's retold. But the method itself is clean, and notice how much it lines up with everything in this series. You decide at the end of the day, while it's clear what matters. You rank by importance, not urgency. You work on one at a time, until it's done. And you let the rest wait without worrying, because they're already on tomorrow's list.
+
+And here's a small trick for the urgency pull. When you rank your list, ask, if I only got one thing done tomorrow, which one would I be glad about on Friday? That's your number one. The ping on your phone almost never wins that question.
+
+One line for part three. Urgency grabs you even when it doesn't matter, so rank by importance and start with number one.
+
+Halfway recap.
+
+Let's take a breath. You're about halfway through the run.
+
+First, switching has a cost. Every half finished task leaves some of your attention behind. Sophie Leroy called that attention residue. A clear finish helps your mind let go, and when you can't finish, a quick note on where you were and what's next helps.
+
+Second, the more things you have in progress, the longer each one takes. That's Little's law, and it's why factories and software teams limit work in progress.
+
+Third, urgency pulls you even when it doesn't matter. So rank by importance, start with number one, and work it until it's done.
+
+Now for the hardest part. The part that's less about technique and more about the heart.
+
+Part four. Letting the rest wait.
+
+Here's the problem with one thing at a time. It means everything else is waiting. And for someone who, in your own words, has always had this anxiety of not wanting to forget, waiting can feel dangerous. What if I forget? What if it falls apart while I'm not looking?
+
+So let's talk about how to let things wait. On purpose. Without guilt.
+
+First, the practical part. Things can wait calmly if they're parked well. That's the whole lesson of part one. If an item is on your list, with a next action, and you trust that you'll look at the list again, your brain can let it go. The waiting things aren't forgotten. They're in the waiting room. They've got a number. They'll be called.
+
+So keep one list where the waiting things live. Not three apps and a notebook. One place. And look at it once a week, during the weekly decide we talked about in part three. That's when you choose what comes off the waiting list and gets a slot. The rest waits, and you let it.
+
+Second, the honest part. You will never get to everything. A writer named Oliver Burkeman makes this point in a book called Four Thousand Weeks, which is roughly the length of an average human life. His argument is that the list will always be longer than your time. Not because you're bad at productivity. Because that's what it means to be a finite person. Even if you got wildly efficient, you'd just take on more. So the real skill isn't getting it all done. It's choosing well what not to do. Deliberately leaving some things undone, so you can do the important things properly.
+
+That can sound depressing. I think it's actually freeing. Once you accept that some things will wait for a long time, and some will never happen, you can stop pretending. You can look at your Marketplace pile and say, honestly, three of these are never going to sell, so they go to the thrift store this week, and the loop is closed. You can look at the list of things you've been meaning to learn and pick one, and let the others go, without the guilt of pretending you're still going to get to them.
+
+And this is where your faith has something to say, very practically. You are not God. That's not a put down. It's a relief. God is not anxious about his list. He doesn't forget. He holds the things you can't. Your limits are part of being a creature, not a failure you need to fix with a better app. The man who has to keep every loop open, just in case, is in a sense trying to carry what only God carries. You can do your work faithfully, one thing at a time, and leave the rest in better hands.
+
+There's a scene in Luke chapter ten that fits here. Martha is rushing around, distracted with all the serving. Mary is sitting at Jesus' feet, listening. And when Martha complains, Jesus says that Mary has chosen the good portion. He doesn't say serving is bad. He says Martha is anxious and troubled about many things, and only one thing is necessary. That's not a productivity tip. But it does put the whole idea of priority in its proper place. Some things matter more than others. And the most important thing is often the quietest one on the list.
+
+And there's one more piece of letting things wait, and it happens before a loop is ever opened. It's the word no, or at least the words not now. You're involved in church leadership. You're a teacher who cares. People will ask you for things. Can you help with this event? Can you sit on this committee? Can you look at my truck? Each yes opens a new loop. And if you've decided you only have room for one project in each lane, then a yes to something new is quietly a no to something you already committed to, or a no to your family, or a no to sleep.
+
+So when someone asks, try this. Not now, but let me put it in the waiting room, and I'll tell you on Sunday whether I can take it on. That buys you time to decide while you're fresh. And it's honest. Sometimes the answer on Sunday will be yes. Often it will be, I'm sorry, I can't do that one well right now. Saying that kindly is not selfish. It's what lets you keep the promises you've already made.
+
+One line for part four. Let things wait by parking them well, accept that you'll never do it all, and choose on purpose what matters most.
+
+How it lands in your actual week.
+
+Let's go back to that Wednesday night in the garage.
+
+Five half done projects. Here's how to unwind it. First, for every project, write down the next action and park it on your one list. Shelving, next action, buy the brackets. Truck, next action, find the torque spec. Marketplace, next action, write the three listings. Marking, next action, finish the last seven papers. That's the ready to resume note. It takes ten minutes, and it gets the mud off your boots.
+
+Then pick one. Just one. Which one, if it were done by Saturday, would make the biggest difference? Maybe it's the truck, because you need it. Maybe it's the marking, because kids are waiting. That's number one. Give it a slot in the calendar. Work it until it's done. Then pick the next.
+
+The rest wait, and you let them. They're parked. They're not forgotten.
+
+At school, do the same with your big projects. The unit you're rebuilding, the rubric, the field trip. Which one matters most this month? Probably the field trip, because it has a real date and kids are counting on it. So the field trip gets your project time until it's done. The unit and the rubric wait. They're in the waiting room.
+
+In your phys ed class, you might notice something similar. When you try to teach three new skills in one class, kids leave with three fuzzy ideas. When you teach one well, they leave able to do it. That's one loop at a time, in a gym.
+
+And at home, the hardest one. The things your wife wants done. Those can feel urgent, and some are. But talk with her about which matters most this month, and do that one properly. Most people would rather have one thing done well than five things half done and a tired husband.
+
+Finally, for the morning, use Ivy Lee's method, but shrink it. Six things might be too many for a teacher's day. Try three. The night before, or right after devotions, write down the three most important things for the day, in order. Start on number one at the first real chance. Don't touch number two until number one is done, or until you hit a wall and have to switch. And if you have to switch, write the ready to resume note.
+
+One thing to try.
+
+Here's your one thing. Only one. One project per lane.
+
+This week, pick your lanes. Maybe three. Home, garage, and school. In each lane, choose one active project. Just one. Write it on a card, or at the top of your list, under the words, now doing.
+
+Everything else in that lane goes into the waiting room, with a next action, on your one list.
+
+Then the rule, the one you liked at the start of this series. You don't start a new project in that lane until the current one is done. Not half done. Done, by the definition of done you set back in part two. When it's done, cross it off, enjoy the closed loop, and only then pull the next one from the waiting room.
+
+If something urgent comes up, deal with it, but ask first. Is it truly urgent, or does it just look urgent? If it's real, handle it, then come back. If it only looks urgent, it goes in the waiting room like everything else.
+
+Try it for one week. And here's how you'll know it's working. By Saturday, count the things that are actually done. Not moving. Done. My guess is you'll have fewer things in motion, more things finished, and a quieter head at night.
+
+Closing recap.
+
+Here's the whole run in three sentences.
+
+Every switch costs a little and every half finished task leaves attention behind, and the more you have in progress, the longer everything takes.
+
+Urgency pulls you even when it doesn't matter, so rank by importance, start with number one, and work it until it's done.
+
+Let the rest wait by parking it well with a next action, accept that you'll never do it all, and choose on purpose what matters most.
+
+And that wraps up the open loops series. Part one, a plan quiets the tug. Part two, an honest deadline and a clear finish. Part three, the calendar decides when, while you're fresh. And part four, one loop at a time, highest priority first, and the rest can wait.
+
+Sources to look up later.
+
+Sophie Leroy, two thousand nine, Why is it so hard to do my work? The challenge of attention residue when switching between work tasks, in Organizational Behavior and Human Decision Processes.
+
+Sophie Leroy and Theresa Glomb, two thousand eighteen, on the ready to resume plan, in Organization Science.
+
+Meng Zhu, Yang Yang and Christopher Hsee, two thousand eighteen, The mere urgency effect, in the Journal of Consumer Research.
+
+Eyal Ophir, Clifford Nass and Anthony Wagner, two thousand nine, Cognitive control in media multitaskers, in the Proceedings of the National Academy of Sciences.
+
+James Clear's article on the Ivy Lee method, for the history of the story.
+
+Oliver Burkeman, two thousand twenty one, Four Thousand Weeks, Time Management for Mortals.
+
+Have a good run.

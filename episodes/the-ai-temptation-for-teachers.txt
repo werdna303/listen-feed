@@ -1,0 +1,230 @@
+Listen. The AI temptation for teachers.
+For your run. About 30 minutes.
+
+It is Sunday night. The house is quiet. You have your laptop open at the kitchen table and a list of what Monday needs.
+
+A desk sheet. A rubric for the deck project in your construction class. Something for Civics on how a bill becomes law.
+
+You type one sentence into the chat box. Forty seconds later you have a rubric. Four levels, clean language, nicely formatted. Honestly, it is better looking than the one you made two years ago by hand.
+
+And you feel two things at once.
+
+The first is relief. That is twenty minutes back. Maybe you get to bed before ten.
+
+The second is harder to name. It is a small, uneasy voice. Because on Friday, a student in your Civics class handed in a paragraph that was far too smooth. Words he does not use. Commas where he never puts commas. And you knew. And you thought, buddy, you did not write this.
+
+So here you are, Sunday night, doing the same thing. Asking the machine so you do not have to. And the question sneaks up on you. What is the difference between him and me?
+
+Here is what this episode is about, in one sentence. The real question is not whether to use AI, it is which work you hand off and which work forms you, and you can draw that line on purpose, for yourself and for your students.
+
+That is the promise. We will go in four parts. First, what other teachers are actually doing, so you know you are not alone in this. Second, what the research says happens when the machine does the thinking for a learner. Third, why the hard part is often the part that matters. And fourth, how to draw the line, for you and for your students. Then we will bring it into your actual week, and I will give you one thing to try. Just one.
+
+Let's run.
+
+Part one. You are not the odd one out.
+
+Start with the feeling you named. You said you feel the exact same temptation as everybody else. That is true. And it is worth knowing just how true.
+
+In twenty twenty five, Gallup ran a large survey with the Walton Family Foundation. They asked more than two thousand public school teachers in the United States about AI. About six in ten said they had used AI tools for their work that school year.
+
+Here is the number that got the headlines. Teachers who used AI at least once a week said it saved them close to six hours a week. Over a school year, that works out to roughly six weeks. Six weeks of evenings and Sundays.
+
+Now, a fair caution. That is self reported. Teachers were estimating their own time saved, and we are all a little generous with ourselves on that kind of question. But even if you cut it in half, it is not nothing.
+
+The same survey found something else. Most teachers had no training at all. And only about one in five worked in a school with any kind of AI policy. In other words, most teachers are figuring this out on their own, at the kitchen table, just like you.
+
+This fall, Gallup and the Walton Family Foundation came back with a newer survey. Nearly three in five educators said they used AI last school year. And about half of those users said it freed up at least somewhat more time for the parts of teaching that matter most to them. Notice that phrase. The parts that matter most. We will come back to it.
+
+And the speed of this is wild. A couple of years ago, a RAND survey found only about a quarter of American teachers using AI tools at all, and most of them only a few times a month. Now it is the majority.
+
+What about at home, in Ontario? The picture is thinner. The province has not put out a big, detailed rulebook for schools. Mostly it has been left to each board. But last school year, the Ministry directed boards to spend one of their professional development days on AI. So if you sat through a PD day on this last spring, that is why. Everyone is being nudged toward it, and very few people have been told where the edges are.
+
+So here is where that leaves you. You are not unusually lazy. You are not uniquely tempted. You are standing exactly where most of your profession is standing. The tool is very good, the time pressure is real, and almost nobody has drawn the lines for you.
+
+And here is the honest part. You already use it a lot. Desk sheets. Worksheets. Rubrics. Planning. That is not a confession. That is just the truth of your week. So this episode is not going to tell you to quit. That would be silly, and you would not listen anyway.
+
+The better question is the one underneath your question. When is the help actually helping? And when is it quietly taking something from you, or from your students?
+
+Here is part one in a line. Most teachers are using AI and saving real time, and most of them are doing it without anyone drawing the lines.
+
+Part two. Help that harms.
+
+Now let's go to the research on learning. Because this is where the worry in your gut turns out to be pointing at something real.
+
+In twenty twenty four, a team led by Hamsa Bastani, at the Wharton School, ran a study in Turkey. It was a proper field experiment, in real schools, with close to a thousand high school math students. Not a lab. Real kids, real classes, real tests.
+
+Here is how it worked. During practice sessions, some students had no AI. Some students got a plain version of ChatGPT. The researchers called it GPT Base. And a third group got a tutor version. Same underlying model, but set up with instructions to give hints and nudges, not answers. They called that one GPT Tutor.
+
+Then, after the practice, every student sat an exam with no AI at all.
+
+First, the practice results. Both AI groups did much better on the practice problems. The plain ChatGPT group did a lot better. The tutor group did even better. If you just looked at practice scores, you would say, wonderful, give every kid a chatbot.
+
+Then the exam. And this is the part worth remembering on your run.
+
+The students who had practised with plain ChatGPT did worse on the exam than the students who never had AI at all. About seventeen percent worse. They looked better during practice and learned less.
+
+Why? The researchers looked at what the students had actually typed. Many of them just asked for the answer. And the tool gave it. So they copied it down, moved on, and felt like they were doing great. The practice was finished. But the practising had never happened.
+
+The tutor group, the one that only got hints, mostly avoided that harm. They ended up about the same as the students with no AI. So the tool itself was not the villain. The way it was used was.
+
+That is a big idea, so let's say it plainly. Help during practice can steal the learning, while making the practice look better than ever.
+
+There is a second study you may have heard about, and it is worth a careful word. In twenty twenty five, a team at the MIT Media Lab led by Nataliya Kosmyna had university students write essays. One group used ChatGPT. One group used a search engine. One group used only their own brains. And they measured brain activity while they wrote.
+
+The ChatGPT group showed the least engagement. And here is the detail that stuck with people. After writing, most of the ChatGPT group could not accurately quote a single sentence from the essay they had just written. Many of them did not feel like the essay was really theirs.
+
+Now, the honest caution. That was a small study. Fifty four students. It was a preprint, not yet through full peer review when it made the news. And the lead researcher herself pushed back on headlines that said AI rots your brain. She said they found no such thing.
+
+So hold it loosely. But notice that it points the same way as the bigger math study. When the machine does the writing, the writer does not really own the words. They cannot quote it. They cannot defend it. It passed through them without landing.
+
+You have seen this. That Civics paragraph from Friday. If you had asked that student, tell me what you meant by this sentence, he would have looked at you like you were speaking another language. Because he did not mean anything by it. He never thought it.
+
+Here is part two in a line. When the tool gives the answer, the learner gets the grade and loses the learning.
+
+Part three. The hard part is the point.
+
+So why does this happen? Why does getting the answer handed to you make you learn less?
+
+There is a psychologist at UCLA named Robert Bjork. Back in the nineties he coined a phrase that has stuck around for thirty years. Desirable difficulties.
+
+The idea is simple, and a little annoying. Some kinds of struggle make learning feel slower and harder in the moment, and those same struggles make the learning last. Things like trying to recall something before you look it up. Spacing practice out. Mixing up problem types. Working out an answer yourself before you are shown one.
+
+Bjork draws a line between two things that look alike. Performance and learning. Performance is how well you do right now, today, during practice. Learning is what is still there next week when the help is gone.
+
+And here is the annoying bit. The things that make performance look good in the moment are often the things that make learning weaker. And the things that make you struggle a bit in the moment are often the things that make learning stick.
+
+Now put that next to the math study. The plain ChatGPT group had great performance. Weak learning. They had all the smoothness and none of the difficulty. The machine removed exactly the struggle that would have built something.
+
+You know this already from your phys-ed class. Nobody gets stronger watching someone else do push-ups. You can explain a squat perfectly to a kid. You can show him a video. You can have a robot do the squat beside him. None of it builds his legs. The resistance is the workout. Take away the weight and you take away the point.
+
+You know it from running too. This run you are on right now. If someone drove you the five kilometres, you would arrive at the same place. Same finish line. Same time on the clock, even faster. And you would have missed the entire reason you went out.
+
+And you know it from chess. When you finish a game and you run it through the engine, you see the best move in a second. That is useful. But if you only ever look at the engine, you never get better at seeing the board. The players who improve sit with a position first. They try to calculate it themselves. They get it wrong. Then they check. The struggle comes first, and the answer comes second.
+
+So here is the key thing to see. Not every difficulty is desirable. Some struggle is just friction. Wrestling with page margins. Retyping the same instructions you typed last semester. Lining up a table in a document. That is not building anyone. That is just drag.
+
+But some struggle is the whole point. Figuring out what you actually think. Deciding what a student needs. Working a problem through. That struggle is building something in the person doing it.
+
+Here is part three in a line. The struggle is often where the learning lives, so the question is always whose struggle the machine is taking away, and whether it was the useful kind.
+
+Halfway recap.
+
+Let's pull it together before we turn to practical things.
+
+One. Most teachers are using AI now. It saves real time, and almost nobody has been given clear lines about it.
+
+Two. The research on students says that when the tool hands over the answer during practice, the practice looks great and the learning drops. When the tool is set up to give hints instead, most of that harm goes away.
+
+Three. That fits a much older idea. Desirable difficulties. The useful struggle is often what builds the skill. So the trick is telling the useful struggle apart from plain drudgery.
+
+And that sets up the last part. Where exactly is the line?
+
+Part four. Drudgery or thinking.
+
+Here is the line in its simplest form. You can hand off drudgery. Be careful about handing off thinking.
+
+Drudgery is work where you already know what you want and the only thing left is the labour of producing it. Formatting. Retyping. Making three versions of the same worksheet at different reading levels when you already know what each version needs. Writing out a permission letter for the trip to the building centre. Turning your notes into a clean handout.
+
+Thinking is work where the doing of it is how you figure out what you want. Deciding what your students actually need this week. Deciding what good work looks like. Noticing which kid is about to check out and why. Choosing the one example that will land with this particular group.
+
+Here is a way to test any task. Ask yourself, if I hand this off, what do I stop getting better at? If the answer is nothing much, hand it off without guilt. If the answer is something that makes you a better teacher, keep at least the first part of it.
+
+Let me make that concrete with your own week.
+
+Take the morning desk sheet. The part that forms you is deciding what skill the kids need to warm up on, and roughly how hard it should be for them on a Monday. You know that. The machine does not. The part that does not form you is typing out ten questions and making it fit on one page. So you decide, and the tool drafts. That is a good trade.
+
+Take the rubric for the deck project. Here is where I would slow down. The heart of a rubric is deciding what quality actually looks like. What does a level four joist layout look like versus a level two? What mistakes do you see every single year? You know those things in your hands. When the machine writes the rubric from scratch, it writes a generic one. It sounds fine. But it is not yours, and if you are honest, you do not quite own it. A bit like that student and his essay. So for a rubric, you do the first thinking. You jot the three things that really separate good work from weak work. Then let the tool make it pretty.
+
+Take your Civics planning. If you ask the tool for a unit on how a bill becomes law, it will give you a decent one. But it will give you the textbook unit. It does not know that your kids light up when the topic is something that touches them. Driving rules. Minimum wage. What happens when you get pulled over. The choice of hook is thinking. That is yours.
+
+So here are two simple rules you might keep.
+
+The first is, I do the first thinking. Before you open the tool, you spend a few minutes deciding what you want, in your own words, on paper or in your notes. Then you bring the tool in.
+
+The second is, AI drafts, I decide. The tool can make the first version. But nothing goes in front of a student until you have read it, changed it, and chosen it. You are the editor, not the courier.
+
+Those two rules together protect the part of the work that forms you, while still giving you most of the time back.
+
+You already live this with your truck. When something breaks, you watch a video. That is fine. The video is drudgery saved. But you still turn the wrench, and you still figure out why the part failed. And that is why, the next time, you do not need the video. If you only ever paid someone else, you would never have learned the truck. Planning works the same way. If you skip the thinking every time, you slowly stop knowing your own course.
+
+And one more thing about the time. Remember that phrase from the survey. The parts that matter most. Saving six hours a week only helps if those hours go somewhere good. If the time you save on worksheets turns into more time scrolling, the machine has not given you anything. But if it turns into five extra minutes at the desk of the kid who has not said a word all week, or a phone call home with good news, or getting to bed in time to get up at five thirty, then it really is a gift. So when the tool saves you twenty minutes, decide on purpose where those twenty minutes go. Otherwise they just leak away.
+
+Now, the students. Because the same line applies to them, just with higher stakes. For a teenager, almost everything is still learning. A lot of what looks like drudgery to you is the thinking for them. Writing a paragraph is not drudgery for a sixteen year old. It is the very thing that teaches him how to think in sentences.
+
+So the practical move for students is this. Design the work so the process is visible. If you can see the thinking happen, it is very hard to fake.
+
+In Civics, that means more writing in the room. A short paragraph in class, by hand or on a locked down screen, before anything goes home. Then the take home version gets compared against it. It does not need to be a trap. It is just a baseline. You get to know each kid's voice.
+
+It also means short conversations. Call it an oral defence, but keep it light. Two minutes at the desk. Tell me why you picked this side. What is the strongest argument against you? A student who did the thinking can answer that, even badly. A student who pasted it in usually cannot. And the conversation itself is learning. You are making them say it out loud.
+
+In Careers, it means using the tool honestly where it fits, and then doing the part it cannot do. Sure, AI can help clean up a resume. That is close to drudgery. But no machine can sit in the chair for the mock interview. No machine can make the phone call to ask about a co-op placement. No machine can shake the hand and look the manager in the eye. Put more of your marks on those.
+
+In your construction class, you are in the luckiest spot of all. Shop work is almost AI proof. The machine can explain how to frame a wall. It cannot hold the tape. It cannot make the cut. The corner is either square or it is not. The tool is either put away properly or it is not. So lean into that. Have kids keep a short build log with photos and a line or two about what went wrong and how they fixed it. That log shows the process. And it gives you something to talk to them about.
+
+In phys-ed, you are already in the business of desirable difficulty. You can say it out loud to them. Name it. This is supposed to be hard. The hard part is what is building you. Then you can bridge that into your other classes. Writing that paragraph yourself is the push-up. Asking the machine is having someone else do your push-ups.
+
+And here is one more idea, which might be the most useful of all. Tell your students about the math study. In plain words. Kids in Turkey got a chatbot during practice. Their practice scores went way up. Then they took the test without it and did worse than kids who never had the chatbot. Your students are not stupid. Many of them have been told for years that school is a game of getting the grade. Showing them that the shortcut can actually make you worse is a real, honest argument. Not a lecture. Just data.
+
+You could even show them the difference between the two kinds of tool. Ask a chatbot to just solve a problem, and look at the answer. Then ask it to act like a tutor that only gives hints, and see how it changes. Let them feel the difference between being carried and being coached.
+
+Here is part four in a line. Hand off the drudgery, keep the first thinking for yourself, and design student work so the thinking has to happen where you can see it.
+
+How it lands in your week.
+
+Let's walk a normal week with this in mind.
+
+Monday morning, early, after devotions and coffee. You are building the desk sheet. You take three minutes first. What do these kids need to warm up on? Maybe it is the vocabulary from Friday. Maybe it is a quick money question, since half of them are trying to save for a car. You write that down. Then you ask the tool to build it, and you fix what it gets wrong. That is the first thinking rule, in miniature.
+
+Tuesday, in Civics. Instead of assigning the opinion paragraph as homework, they write the first draft in class. Twenty minutes. You walk around. You see who is stuck. You see who is actually thinking. That draft becomes their baseline. If something comes back on Thursday that sounds like a different person wrote it, you do not have to accuse anybody. You just pull up a chair and ask about it.
+
+Wednesday, the deck project. You hand out the rubric. But this time, you wrote the first version of the top level yourself. Three plain sentences about what a really good deck frame looks like, based on what you have seen in actual shops and actual kids. The tool tidied it up. When a kid asks what you mean, you can explain it in your own words, because they are your words.
+
+Thursday, phys-ed. You run a fitness circuit, and at the end you ask them one question. Where did it hurt today, and why is that good? It is a small thing. But it plants the idea that difficulty is a sign of growth, not a sign that something is wrong.
+
+Friday, Careers. Mock interviews. They can use any tool they like to prepare. But the interview itself is them, in the chair, with you or a guest across the table. Most of the mark is there.
+
+Notice what has not happened in this week. You have not stopped using AI. You probably used it most days. But you used it on purpose. You kept the thinking that forms you, and you built your classes so your students have to do the thinking that forms them.
+
+One thing to try.
+
+Here is the one thing. Just one.
+
+For the next two weeks, before you open an AI tool for any planning task, do five minutes of first thinking with a pen. A sticky note is fine. Write two things. What do I want the students to be able to do when this is done? And what does good look like? Then open the tool. Give it what you wrote. Let it draft. Then decide.
+
+That is it. Five minutes, a pen, two questions.
+
+You love a system, so this should fit right in. You could even put it at the top of your planning checklist. First thinking. Then tool. Then decide.
+
+At the end of the two weeks, ask yourself one honest question. Do I understand my own materials better than I did before? My guess is yes. And my guess is that you still saved most of the time.
+
+Closing recap.
+
+Most teachers are using AI and saving real time, so the temptation you feel is normal, not a character flaw.
+
+The research says that when the tool does the thinking during practice, learners look better and learn less, because the useful struggle gets taken away.
+
+So hand off the drudgery, do the first thinking yourself, and build your classes so your students have to think where you can see it.
+
+Here is a line that fits. It is from a Truth For Life devotional on diligence, called Countering Spiritual Laziness. Word for word.
+
+"In the worlds of sports, business, and academics, less gifted individuals often go further than those with greater abilities due to one trait: diligence."
+
+Alistair Begg, Truth For Life.
+
+Sources to look up later.
+
+Gallup and the Walton Family Foundation, twenty twenty five. The survey of teachers on AI use and the time it saves them, sometimes called the AI dividend.
+
+Gallup and the Walton Family Foundation, twenty twenty six. The fall survey of educators on AI use and time for the parts of teaching that matter most.
+
+Kaufman and colleagues at RAND, twenty twenty four. Using artificial intelligence tools in classrooms, from the American Teacher Panel.
+
+Bastani and colleagues, twenty twenty four as a working paper, and twenty twenty five in the Proceedings of the National Academy of Sciences. Generative AI can harm learning, later titled Generative AI without guardrails can harm learning, evidence from high school mathematics.
+
+Kosmyna and colleagues, MIT Media Lab, twenty twenty five. Your Brain on ChatGPT. A small preprint study of essay writing.
+
+Robert Bjork, nineteen ninety four. Memory and metamemory considerations in the training of human beings. The chapter where desirable difficulties comes from.
+
+Alistair Begg, Truth For Life devotional, Countering Spiritual Laziness.
+
+That's the run. Do the first thinking, let the tool carry the drudgery, and keep the hard part where it belongs.

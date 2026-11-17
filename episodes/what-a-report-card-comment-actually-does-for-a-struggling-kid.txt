@@ -1,0 +1,174 @@
+Listen. What a report card comment actually does for a struggling kid.
+For your run. About 30 minutes.
+
+Picture this. It's a weeknight in late January. You're at the kitchen table with your laptop, and your wife has gone to bed. You've got a student's mark in one box, the six learning skills in a row of little drop downs, and an empty comment box staring back at you. You paste your notes into the AI. It hands you back a paragraph that is, honestly, pretty good. It's accurate. It sounds like a teacher. And a small voice in your head says: why am I even doing this? Who reads this? Does this help this kid at all, or am I just feeding the machine because the job says I have to?
+
+That's the question for today. Here's the promise in one sentence. By the end of this run you'll know what an accurate written comment actually changes for a struggling student, who really reads it and how, and how to keep using AI to write them fast without them going hollow.
+
+We'll do it in four ideas. First, what the research says feedback does, and the surprising part about when it backfires. Second, who actually reads a report card comment, and why the guardian might be the most important reader. Third, why accuracy matters more for a struggling kid than for anyone else. Fourth, how to use AI so the comment stays yours. Then we'll land it in your actual week, and I'll give you one thing to try.
+
+Settle into your pace. Here we go.
+
+Part one. Feedback is powerful, and it can also make things worse.
+
+Let's start with the big picture. Feedback is one of the most studied things in all of education. And the headline finding is good news for you. On average, feedback helps. It helps a lot. It's one of the strongest tools a teacher has.
+
+But there's a catch, and it's an important one. In 1996, two researchers named Avraham Kluger and Angelo DeNisi pulled together a huge body of studies on feedback. Not just in schools, in workplaces too. And they found something that surprised a lot of people. Feedback helped on average, yes. But in more than a third of the cases, feedback actually made performance worse. More than one in three. Feedback that people worked hard to give, and it pushed the person backwards.
+
+So what separated the feedback that helped from the feedback that hurt? Their answer was about where the feedback points a person's attention. When feedback keeps someone's attention on the task, on the work and how to do it better, it tends to help. When feedback pulls attention onto the self, onto "what kind of person am I," it tends to hurt. Because now the person isn't thinking about the work anymore. They're thinking about protecting themselves. They're managing feelings. They're defending their standing.
+
+Think about what that means for a kid in your room. Picture a made up student, call him student B. A comment that says "Student B is a pleasure to have in class" points at the person. It's nice. It doesn't hurt anyone. But it doesn't point anywhere. A comment that says "Student B is a poor worker who doesn't apply himself" also points at the person, and that one can do real damage. It's a verdict. And a kid who has been getting verdicts their whole school life has a very well trained reflex for verdicts. They stop reading.
+
+Now compare that to a comment that points at the work. Something like: "When student B has a clear first step written down, he finishes the task. His next step is to write that first step himself before asking for help." That points at a behaviour, a pattern, and a move he can make. It's about the task, not his worth.
+
+There's a famous framework that builds on this. John Hattie and Helen Timperley wrote a paper in 2007 called The Power of Feedback. They said good feedback answers three questions. Where am I going? How am I going? And where to next? And they made the same point Kluger and DeNisi made. Feedback aimed at the self, like general praise, is the least useful kind. Feedback about the task, about the process, and about how the student manages their own learning is where the power is.
+
+Notice something. Those three questions line up almost perfectly with what Ontario asks you to write. Growing Success, the Ontario assessment policy, asks report card comments to describe strengths and next steps. Strengths is "how am I going." Next steps is "where to next." The policy didn't invent busywork. It took the shape of good feedback and turned it into a comment box.
+
+So here's idea one in a single line. Feedback is powerful, but only when it points at the work and the next move, not at the kid's worth.
+
+Part two. Who actually reads a report card comment?
+
+This is the part where it's easy to get cynical. You might think nobody reads these. And honestly, for some students, that's partly true. The student might glance at the mark and skip the rest.
+
+There's an old study that speaks to this. In 1988 an Israeli researcher named Ruth Butler gave grade five and six students one of three kinds of feedback. A grade alone. A comment alone. Or a grade and a comment together. The students who got only comments showed more interest and more motivation afterwards. And here's the striking part. When students got a grade and a comment together, it looked a lot like getting the grade alone. The number swallowed the comment.
+
+Now, I want to be careful here. That study was small, with younger kids, and the grades in it were based on ranking students against each other. Later writers, like Thomas Guskey, have pointed out that you can't stretch it into "never give grades." What it does show is this: when a number and a sentence sit side by side, the number shouts and the sentence whispers. And one more detail matters for you. The effect was strongest for the low achievers, the bottom quarter of the class. High achievers stayed motivated no matter what. The struggling kids were the ones whose motivation rose or fell based on the kind of feedback they got.
+
+So the student is one reader, and maybe not the most reliable one. Who else reads it?
+
+The guardian. And this is where I think the real leverage is.
+
+Here's the second study, and it's one of my favourites. In 2015, Matthew Kraft and Todd Rogers ran an experiment in a summer credit recovery program for high school students. Think about that setting for a second. Credit recovery. Students who had already failed a course once. That's not far from your room.
+
+Teachers sent one sentence a week home to parents. That's it. One sentence. Half the families got positive messages, like "your child stayed focused in class all week, great improvement." The other half got improvement messages, like "your child didn't hand in yesterday's homework, please follow up with them about it."
+
+The result? Weekly messages cut the share of students who failed to earn the credit from about sixteen percent down to about nine percent. That's a drop of roughly forty percent. From one sentence a week.
+
+And here's the detail that matters most for our question. The improvement messages, the ones that named a specific thing to work on, looked like they had the stronger effect. The researchers were honest that the study wasn't big enough to be sure about that difference. But they noticed why it might be true. The improvement messages were more specific and more actionable. And students in that group were more likely to say they had talked with a parent about how to do better. Those conversations were linked to earning the credit.
+
+Sit with that. A guardian who knows exactly what the problem is can have a conversation at home. A guardian who reads "doing fine" or "a pleasure to have in class" has nothing to say. Or worse, a guardian who reads a vague comment and then gets a surprise later, like a failed credit or a call from the office, stops trusting what the school tells them.
+
+Your report card is not a weekly text. But it's the official version of the same thing. It's the one written message that the guardian, the student, and the next school are all likely to see. And for your kids especially, that last reader matters. Your students come through a care and treatment program. A lot of them will be back in a regular school at some point. The report card and the learning skills travel with them. A teacher at the next school might open that file before they ever meet the kid. Your comment might be the first thing they learn about that student.
+
+So here's idea two in one line. The comment is a message to the guardian and to the next teacher, and specific, actionable comments are the ones that start conversations at home.
+
+Halfway recap. Let's catch our breath.
+
+So far we have two things. One. Feedback is powerful, but more than a third of the time it backfires, and the difference is whether it points at the work or at the kid's worth. Two. The report card comment has several readers. The student may skim it, because the mark shouts louder. But the guardian and the next teacher really use it, and the most useful comments are the specific ones that give them something to do.
+
+Keep running. Two more ideas.
+
+Part three. Why accuracy matters most for the struggling kid.
+
+You said something in your question that I want to come back to. You said you just want to be accurate in the feedback you give. And you said it can't hurt to give an accurate report. I'd push that further. For your students, accuracy isn't just a nice extra. It's the whole thing.
+
+Here's why. There's a third study I want to tell you about. In 2014, David Yeager and a team of researchers worked with middle school students who wrote essays. Teachers wrote critical feedback on every essay, the normal red pen stuff. Then a sticky note was attached. Half the students got a note that just said, roughly, here's some feedback on your paper. The other half got a note that said: "I'm giving you these comments because I have very high expectations and I know that you can reach them."
+
+That's it. One sentence. Students then had the choice to revise their essay.
+
+Among the Black students in the study, students who had good reason, from experience, to wonder whether teachers saw them fairly, the result was huge. With the plain note, about twenty seven percent revised. With the high expectations note, about sixty four percent revised. More than double.
+
+The researchers called this wise feedback. And the key idea is about trust. Criticism by itself can feel like an attack. Praise by itself can feel fake, or like low expectations. But criticism that comes with high standards and real belief that the kid can meet them feels like respect. And kids who've been let down by adults are expert detectors of which one they're getting.
+
+Now think about your students. Many of them have had years of report cards. Some of those were full of verdicts. Some were full of soft, vague praise that everyone knew wasn't true. Both of those teach a kid the same lesson: the words on this paper don't really mean anything.
+
+An accurate comment breaks that pattern. If a kid reads a comment and thinks, "yeah, that's actually what I do," you've earned something. The strength you name feels real, because the next step you name is also real. Honest about the struggle makes the praise believable. And believable praise is the only kind that works.
+
+There's also a quieter reason accuracy matters. Ontario reports learning skills separately from the marks. Responsibility, organization, independent work, collaboration, initiative, and self regulation. Each one rated excellent, good, satisfactory, or needs improvement. For a lot of struggling students, the learning skills are where the real story is. The mark might say a kid earned the credit. The learning skills tell the next teacher whether that kid can start work on their own, or whether they shut down when a task feels too big. If you inflate those, you're not being kind. You're hiding the map from the next person who needs it.
+
+And this goes both ways. Accuracy also means naming real growth. If a student went from walking out of class twice a week to staying through a hard task, that's real, and it belongs on the page in plain words. For a kid whose file is mostly bad news, a true and specific strength might be the first good thing an adult has written about them in a long time.
+
+So here's idea three in one line. For a struggling student, accuracy is what makes the comment believable, and believable feedback is the only kind they'll act on.
+
+Part four. How to use AI without the comment going hollow.
+
+Okay. You're already using AI, and you noticed it's quite accurate. Good. I'm not going to tell you to stop. Writing every careful comment from scratch at the kitchen table is not a good use of your evening, and nothing in the research says hand typing makes a comment better.
+
+But here's the risk. AI is very good at making a comment that sounds right. Sounding right and being right are different things. A hollow comment is one that would be equally true of any kid. "Continues to develop organizational skills." "Is encouraged to ask for help when needed." Those sentences are smooth. They're grammatical. They're also invisible. A guardian reads right past them. The next teacher learns nothing.
+
+So the question isn't AI or no AI. The question is what goes in, and what you check on the way out.
+
+Here's the simple rule. The AI can do the writing. You have to do the noticing.
+
+What goes in should be your observations, not your conclusions. Not "he struggles with independence." Instead: "Starts tasks when I sit with him for the first two minutes. Stops when the task has more than three steps. Finished the pay stub budget on his own on the second try." That's raw material only you have. The AI can't make it up. And when you feed it specifics, it gives you specifics back.
+
+Your your program Log is already a gold mine for this. The dated entries you keep on each student are exactly the kind of evidence a good comment is built from. If you paste a few real moments from the term into the prompt, the comment will be anchored in things that actually happened.
+
+Then what you check on the way out. Here are three quick tests. Only three.
+
+Test one. The swap test. Could you swap this comment onto a different student and have it still be true? If yes, it's hollow. Add one detail only this kid has.
+
+Test two. The kitchen table test. Picture the guardian reading it at their own kitchen table. Would they know one thing to say or do this week? If not, the next step isn't concrete enough.
+
+Test three. The truth test. Would the student, reading it, nod? Not smile, nod. Would they think, "yeah, that's me"? If the comment is softer than the truth, they'll know. If it's harsher than the truth, they'll know that too.
+
+That's it. Swap, kitchen table, truth. Thirty seconds per comment once you get used to it.
+
+Let me walk through one, so you can hear the difference. This is a made up student, not one of yours. Call her student A.
+
+Here's the hollow version, the kind AI writes when you give it almost nothing. "Student A has shown growth this term. She is encouraged to continue developing her organizational skills and to seek help when needed. With continued effort, she will be successful."
+
+Run the swap test. Could that be about anyone? Yes. Almost any student in Ontario. It fails.
+
+Run the kitchen table test. What does her mom do with that this week? Nothing. "Continue developing" isn't a thing you can do on a Tuesday. It fails.
+
+Run the truth test. Would student A nod? She'd probably shrug. It's not wrong, exactly. It's just not about her.
+
+Now here's what you'd feed the AI instead. Three real moments. One: she finished the whole budget section of her pay stub assignment once she had a calculator and the steps on a sticky note. Two: on days she arrives late, she doesn't start the morning sheet at all. Three: she helped another student with the muscle map without being asked.
+
+And here's the kind of comment that comes back. "Student A does her best work when the steps are laid out in front of her; she completed the full budget section of her pay stub assignment using a written checklist. She showed real initiative by helping a classmate with a fitness task on her own. Her next step is to start the morning work within ten minutes of arriving, even on days she comes in late, so she doesn't lose the first part of the day. At home, it would help to ask her each evening what her first task will be the next morning."
+
+Run the tests again. Swap? No, that's clearly her. Kitchen table? Yes, there's one specific thing to ask at home. Truth? She'd nod. She knows the checklist works and she knows the late mornings are a problem.
+
+Notice what changed. The AI didn't get smarter. You gave it better raw material. The writing was never the hard part. The noticing was.
+
+Now, here's what doesn't work, even though it seems like it would. Asking the AI to "make it more specific" without giving it anything specific. It will invent detail that sounds real. That's worse than hollow, because now it's inaccurate. Another one that seems smart but isn't: piling on five next steps to be thorough. A guardian can act on one. Maybe two. Five next steps reads like a list of everything wrong with their kid. And one more: stacking praise to soften a hard comment. Kids and parents can smell the sandwich. One true strength does more than three generic ones.
+
+A couple of small things that also help. Keep the language plain. Guardians aren't always teachers, and some of your families are under a lot of stress. Short sentences beat jargon. And watch for the AI's favourite habit, which is to soften everything into "continues to develop." Sometimes the honest sentence is "has not yet." Has not yet is a great phrase, by the way. It's accurate, and it carries the belief that it's coming.
+
+And one more. Make sure the comment and the learning skills ratings tell the same story. If the comment says a kid works well on their own but independent work is rated needs improvement, a guardian will be confused, and the next teacher won't know which to trust. AI won't catch that. You will.
+
+So here's idea four in one line. Let the AI do the writing, but you do the noticing, and run every comment past the swap, kitchen table, and truth tests.
+
+How this lands in your actual week.
+
+Let's bring it home. You've got a small class. Four or so students, each with a story, each with an ETP you've been working on. That's actually a huge advantage. You know these kids far better than a teacher with a hundred and twenty students could.
+
+In the classroom, this means the comment writing really starts now, not in January. Every time you write a dated note in a student's Log tab, you're collecting report card evidence. A line like "stayed through the full PAF3O block today, first time this month" is a future strength. A line like "asked a colleague instead of starting" is a future next step. You're already doing the hard part. You're noticing.
+
+With guardians, it means your report card isn't the first time they hear the news. You mentioned wanting to get better at documenting contact home. The Kraft and Rogers study suggests that short, specific, regular messages home do real work, especially ones that name one thing to improve. If the report card comment matches what a guardian has already heard from you, it lands as confirmation, not as a surprise. And it builds trust that the school's words mean something.
+
+For the next school, it means writing the comment you'd want to receive. When one of your students goes back into a regular classroom, picture that teacher opening the report. What would actually help them on day one? Probably something like: here's what this kid does well, here's what shuts them down, here's what gets them started. That's an accurate comment. It's also an act of care for a kid you might never see again.
+
+And there's a faith angle here too, if you want it. Paul writes in Ephesians about speaking the truth in love. Not truth without love, which is just a verdict. Not love without truth, which is just flattery. Both together. That's almost exactly what the wise feedback study found works. High standards, honestly stated, with real belief in the person. You don't write accurate comments because the job requires it. You write them because telling a kid the truth, kindly, is a way of taking them seriously.
+
+One thing to try.
+
+Here's the one thing. Only one.
+
+Before your next round of report cards, pick one student. Open their Log tab. Pull out three real moments from this term, written as plain observations, not judgments. Give those to the AI along with the mark and the learning skills. Then run the comment it writes through the three tests: swap, kitchen table, truth. Fix whatever fails.
+
+Then compare it to a comment you wrote last time without that step. I think you'll see the difference right away. And once you've done it for one kid, you'll have a process you can repeat in a few minutes for the rest.
+
+Closing recap.
+
+Three sentences. Feedback is powerful when it points at the work and the next move, and it backfires when it points at the kid's worth. The guardian and the next teacher are the readers who really use your comment, and specific, accurate, actionable comments are the ones that start real conversations and earn a struggling kid's trust. Let the AI do the writing while you do the noticing, and check every comment with the swap, kitchen table, and truth tests.
+
+To close, a line from Alistair Begg, Truth For Life, from his devotional called Words That Help. Quote: "Words of blessing are marked by honesty, by 'speaking the truth in love' (Ephesians 4:15)." End quote.
+
+Sources to look up later.
+
+One. Kluger and DeNisi, 1996, The effects of feedback interventions on performance, in Psychological Bulletin.
+
+Two. Hattie and Timperley, 2007, The Power of Feedback, in Review of Educational Research.
+
+Three. Ruth Butler, 1988, on task involving and ego involving feedback, in the British Journal of Educational Psychology. And Thomas Guskey's 2019 Education Week piece, Grades versus Comments, for the nuance.
+
+Four. Kraft and Rogers, 2015, The underutilized potential of teacher to parent communication, in Economics of Education Review.
+
+Five. Yeager and colleagues, 2014, Breaking the cycle of mistrust, on wise feedback, in the Journal of Experimental Psychology General.
+
+Six. Growing Success, the Ontario Ministry of Education's assessment, evaluation and reporting policy, 2010, especially the sections on learning skills and report card comments.
+
+Seven. Truth For Life, Alistair Begg, the devotional Words That Help.
