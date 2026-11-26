@@ -24,7 +24,7 @@ ALLOW = set("AI OK TV PD IO AQ MC US UK UN EU TO UP IT IN OR AM PM CO MP PE IQ G
 def _heading(m):
     s = m.group(0).strip().rstrip('.:').lower()
     return s[0].upper() + s[1:] + '.'
-t = re.sub(r'(?m)^(?=.*[A-Z]{3})[A-Z0-9 ,:\'"!?&-]{8,}$', _heading, t)
+t = re.sub(r'(?m)^(?=.*[A-Z]{3})[A-Z0-9 ,.:\'"!?&-]{8,}$', _heading, t)
 holds = sorted(set(re.findall(r'\b[A-Z]{2}\b', t)) - ALLOW) + [w for w in HOLD_WORDS if w in t]
 open(dst, 'w').write(t)
 if holds:
