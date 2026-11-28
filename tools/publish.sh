@@ -9,12 +9,15 @@ for f in inbox/*.txt; do
   slug=$(echo "$title" | tr 'A-Z' 'a-z' | sed 's/[^a-z0-9]\+/-/g; s/^-//; s/-$//' | cut -c1-70 | sed 's/-$//')
   if [ -e "episodes/$slug.mp3" ]; then echo "skip (exists): $slug"; rm "$f"; continue; fi
   # scrub exits 3 when it sees possible initials or a hold word: park it for a human look
-  rc=0; python3 tools/scrub.py "$f" "episodes/$slug.txt" || rc=$?
+  # work in inbox/work (gitignored) so nothing sits untracked in the repo while it records
+  W=inbox/work; mkdir -p "$W"
+  rc=0; python3 tools/scrub.py "$f" "$W/$slug.txt" || rc=$?
   if [ $rc -ne 0 ]; then
-    rm -f "episodes/$slug.txt"; mkdir -p inbox/held; mv "$f" inbox/held/
+    rm -f "$W/$slug.txt"; mkdir -p inbox/held; mv "$f" inbox/held/
     echo "held: $title"; continue
   fi
-  python3 -I tools/tts.py "episodes/$slug.txt" "episodes/$slug.mp3" </dev/null
+  python3 -I tools/tts.py "$W/$slug.txt" "$W/$slug.mp3" </dev/null
+  mv "$W/$slug.txt" "$W/$slug.mp3" episodes/
   python3 build_feed.py "$BASE"
   git add "episodes/$slug.txt" "episodes/$slug.mp3" feed.xml published.json
   git commit -q -m "Add episode: $title"
